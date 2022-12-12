@@ -20,5 +20,19 @@
   "contextMenus",
   "tabs",
   "storage"
+],
+"host_permissions": [
+  "https://*/*"
+],
+"content_scripts": [
+  {
+    "matches": [
+      "http://*/*",
+      "https://*/*"
+    ],
+    "js": [
+      "scripts/content.js"
+    ]
+  }
 ]
 }
