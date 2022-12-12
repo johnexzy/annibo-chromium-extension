@@ -1,4 +1,4 @@
-# Annibo Chromium Extension
+# Annibo
 ### Welcome 👋
-Create Powerful and intuitive articles with Annibo . 
- 
+This is the chromium extension for Annibo:  
+Create Intuitive Contents, articles or blog using AI. https://annibo.up.railway.app/
